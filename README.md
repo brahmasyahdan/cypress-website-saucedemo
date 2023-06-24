@@ -1,20 +1,7 @@
-<p align="center">
-  <a href="https://www.cypress.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="./assets/cypress-logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-logo-light.png">
-      <img alt="Cypress Logo" src="./assets/cypress-logo-light.png">
-    </picture>    
-  </a>
-</p>
-<p align="center">
-  <a href="https://on.cypress.io">Documentation</a> |
-  <a href="https://on.cypress.io/changelog">Changelog</a> |
-  <a href="https://on.cypress.io/roadmap">Roadmap</a>
-</p>
+
 
 <h3 align="center">
-  The web has evolved. Finally, testing has too.
+  Testing Website Sauce Demo
 </h3>
 
 <p align="center">
